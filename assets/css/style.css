@@ -73,11 +73,11 @@ body {
   background-repeat: no-repeat;
   background-position: 50% 50%;
 }
-.fix #content {
+/* .fix #content {
   padding: 20px;
   text-align: center;
   background: red;
-}
+} */
 /* makes the contect of the web page to have margin bottom */
 .wrapper {
   width: 100%;
